@@ -15,6 +15,7 @@
 Add more general information about project. What the purpose of the project is? Motivation?
 
 ## Screenshots
+![Example screenshot](./img/screenshot.jpg)
 
 ## Technologies
 * Tech 1 - version 1.0
@@ -22,7 +23,7 @@ Add more general information about project. What the purpose of the project is? 
 * Tech 3 - version 3.0
 
 ## Setup
-Describe how to install up / setup your local environement / add link to demo version.
+Describe how to install / setup your local environement / add link to demo version.
 
 ## Code Examples
 Show examples of usage:
