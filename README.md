@@ -11,8 +11,9 @@
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
-* [Inspiration](#inspiration)
+* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
+<!-- * [License](#license) -->
 
 
 ## General Information
@@ -45,7 +46,6 @@ List the ready features here:
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
 Proceed to describe how to install / setup one's local environment / get started with the project.
-Provide a link to the demo version here as well.
 
 
 ## Usage
@@ -71,7 +71,7 @@ To do:
 - Feature to be added 2
 
 
-## Inspiration
+## Acknowledgements
 Give credit here.
 - This project was inspired by...
 - This project was based on [this tutorial](https://www.example.com).
@@ -79,6 +79,11 @@ Give credit here.
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to get in touch.
+- Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+
+
+<!-- Optional -->
+<!-- ## License -->
+<!-- This project is open source and available under the [... License](). -->
 
 <!-- You don't have to include all sections - just the one's relevant to your project -->
